@@ -1,0 +1,30 @@
+project:
+  type: website
+
+lang: es
+date-format: iso
+
+execute:
+    freeze: auto
+
+website:
+  title: "Introducción a la Aerobiología"
+  description: "Website del curso Introducción a la Aerobiología - XII Congreso Colombiano de Botánica"
+  
+  navbar:
+  # logo: images/logo_reproducible_quarto.png
+    right:
+      - href: index.qmd
+        text: Inicio
+      - href: https://congresobotanica.org
+        text: XII CCB
+      - href: http://geobota.github.io
+        text: GEOBOTA
+      - href: https://github.com/geobota/xii-ccb-aerobiologia
+        text: "{{< fa brands github >}}"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
