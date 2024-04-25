@@ -3,7 +3,7 @@ title: "Introducción a la Aerobiología"
 subtitle: "XII Congreso Colombiano de Botánica. Popayán, Colombia. Noviembre 4 al 8 del 2024."
 ---
 
-***
+# Información general
 
 {{< fa calendar-days >}} Fecha: 3 de noviembre del 2024
 
@@ -11,10 +11,64 @@ subtitle: "XII Congreso Colombiano de Botánica. Popayán, Colombia. Noviembre 4
 
 {{< fa clock >}} Duración: 4 horas
 
+{{< fa users >}} Cupos: 20
+
 {{< fa money-bill-1 >}} Inversión: desde $20000 COP [(más información)](sec-inversion)
 
-{{< fa file-signature >}} Registrarse: Disponible en breve
+{{< fa file-signature >}} Registro: disponible en breve
 
 {{< fa envelope >}} Contacto: [alex.espinosa@udea.edu.co](mailto:alex.espinosa@udea.edu.co)
 
-***
+# Descripción
+
+En el aire, una amplia variedad de partículas, tanto bióticas como abióticas, se encuentran en suspensión. La aerobiología se enfoca en el estudio de las partículas biológicas dispersadas pasivamente en el aire, con el objetivo de comprender la propagación de enfermedades en humanos, animales y plantas, y desarrollar medidas preventivas. Los procesos aerobiológicos, como la producción, liberación, transporte, deposición y resuspensión de biopartículas, están influenciados por eventos atmosféricos y la biología de los organismos productores. En el Neotrópico, se ha subestimado la diversidad y abundancia de biopartículas aerovagantes, lo que ha limitado los estudios aerobiológicos, especialmente en países como Colombia. Este curso ofrece una introducción a la aerobiología desde un contexto neotropical, explorando la historia y el desarrollo de esta disciplina en el país, así como las técnicas de muestreo, la identificación de tipos polínicos y fúngicos en la atmósfera urbana colombiana, y el análisis de datos aerobiológicos.
+
+# Objetivos
+
+-   Conocer los objetivos de trabajo y los métodos de la aerobiología como una ciencia de desarrollo necesaria en Colombia 
+-   Identificar las principales biopartículas que son objeto de estudio de la aerobiología.
+-   Determinar el efecto de los factores bióticos y abióticos sobre la producción, liberación, transporte, deposición y abundancia de las biopartículas aerovagantes.
+-   Reconocer las técnicas y metodologías más apropiadas para el estudio de las biopartículas.
+
+# Metodología
+
+El curso se estructura de forma teórico-práctica, centrado en los principios básicos de la aerobiología desde una perspectiva neotropical, considerando las oportunidades y desafíos de los estudios aerobiológicos en el país. Las secciones teóricas comprenden charlas magistrales que abordan conceptos fundamentales, historia y técnicas de muestreo. Las secciones prácticas ofrecen una introducción a la identificación de las principales biopartículas en la atmósfera colombiana. Al finalizar, los estudiantes comprenderán la relevancia de la aerobiología en zonas tropicales y podrán tener los conocimientos básicos para iniciar sus propios muestreos aerobiológicos de manera básica.
+
+# ¿Este curso es para mi?
+
+# Inversión {#sec-inversion}
+
+| Tipo de inscripción              | Valor (COP) |
+|----------------------------------|---------------------------|
+| Estudiante asociado ACB 2024     | \$20000                   |
+| Estudiante no asociado ACB 2024  | \$30000                   |
+| Profesional asociado ACB 2024    | \$40000                   |
+| Profesional no asociado ACB 2024 | \$50000                   |
+
+[Cómo afiliarse a la Asociación Colombiana de Botánica (ACB).](https://congresobotanica.org/afiliacion-acb/)
+
+# Instructor
+
+:::: {.columns}
+::: {.column width="25%"}
+![](images/profile.jpeg)
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="70%"}
+¡Hola! Soy [Alex Espinosa Correa](http://alexespinosaco.github.io).
+
+Biólogo y candidato a Doctor en Biología de la Universidad de Antioquia, especializado en el campo de la botánica, la palinología y la aerobiología. Me apasiona la Ciencia Abierta y Reproducible, R, Quarto, la visualización de datos, los SIG, y el software libre y de código abierto (FLOSS).
+:::
+::::
+
+# Licencia
+
+<p xmlns:cc="http://creativecommons.org/ns#">
+
+<a rel="cc:attributionURL" href="https://geobota.github.io/xii-ccb-aerobiologia/">This work</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="http://alexespinosaco.github.io">Álex Espinosa-Correa</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"/><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"/></a>
+
+</p>
