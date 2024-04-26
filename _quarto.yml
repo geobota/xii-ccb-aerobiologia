@@ -10,18 +10,38 @@ execute:
 website:
   title: "Introducción a la Aerobiología"
   description: "Website del curso Introducción a la Aerobiología - XII Congreso Colombiano de Botánica"
-  
+  site-url: https://geobota.github.io/xii-ccb-aerobiologia/
+  repo-url: https://github.com/geobota/xii-ccb-aerobiologia
+
+  page-navigation: true
+  back-to-top-navigation: true
+  bread-crumbs: true
+
+  google-analytics:
+    tracking-id: "G-H462RE4B9E"
+    anonymize-ip: true
+
+  twitter-card:
+    card-style: summary_large_image
+
+  open-graph: true
+
   navbar:
-  # logo: images/logo_reproducible_quarto.png
+  # logo: images/logo_aerobiologia.png
     right:
       - href: index.qmd
         text: Inicio
       - href: https://congresobotanica.org
         text: XII CCB
+      - href: https://asociacioncolombianadebotanica.com
+        text: ACB
       - href: http://geobota.github.io
         text: GEOBOTA
       - href: https://github.com/geobota/xii-ccb-aerobiologia
         text: "{{< fa brands github >}}"
+
+  page-footer:
+    center: Made by [@alexespinocaco](https://alexespinosaco.github.io) with {{< fa brands r-project >}} and [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
 
 format:
   html:
