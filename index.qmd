@@ -5,19 +5,19 @@ subtitle: "XII Congreso Colombiano de Botánica <br>Popayán, Colombia <br>Novie
 
 # Información general
 
-{{< fa calendar-days >}} Fecha: 3 de noviembre del 2024
+{{< fa calendar-days >}} **Fecha:** 4 de noviembre del 2024
 
-{{< fa location-dot >}} Lugar: Popayán, Colombia
+{{< fa location-dot >}} **Lugar:** Popayán, Colombia
 
-{{< fa clock >}} Duración: 4 horas
+{{< fa clock >}} **Duración:** 4 horas
 
-{{< fa users >}} Cupos: 20
+{{< fa users >}} **Cupos:** 20
 
-{{< fa money-bill-1 >}} Inversión: desde $20.000 COP ([ver detalles](#sec-inversion))
+{{< fa money-bill-1 >}} **Inversión:** desde $20.000 COP ([ver detalles](#sec-inversion))
 
-{{< fa file-signature >}} Registro: disponible en breve
+{{< fa file-signature >}} **Inscripción:** en la página del [XII Congreso Colombiano de Botánica](https://congresobotanica.org/actividades/)
 
-{{< fa envelope >}} Contacto: [alex.espinosa@udea.edu.co](mailto:alex.espinosa@udea.edu.co)
+{{< fa envelope >}} **Contacto:** [alex.espinosa@udea.edu.co](mailto:alex.espinosa@udea.edu.co)
 
 # Descripción
 
@@ -107,6 +107,13 @@ Conoce como afiliarte en el siguiente enlace: [proceso de afiliación a la ACB](
 
 -   Tipos polínicos
 -   Tipos fúngicos
+
+# Otros cursos
+
+Quizá te pueda interesar alguno de nuestros otros cursos que tendremos durante el congreso:
+
+-   [Etnobotánica Cuantitativa en R](https://geobota.github.io/xii-ccb-etnobotanica/)
+-   [Investigación Reproducible con Quarto](https://geobota.github.io/xii-ccb-quarto/)
 
 # Licencia
 
