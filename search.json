@@ -1,17 +1,241 @@
 [
   {
-    "objectID": "slides/01_aerobiologia/index.html#definición",
-    "href": "slides/01_aerobiologia/index.html#definición",
+    "objectID": "slides/index.html#quienes-somos",
+    "href": "slides/index.html#quienes-somos",
     "title": "Introducción a la Aerobiología",
-    "section": "Definición",
-    "text": "Definición\n\nCréditos imagen portada: Mervi Hjelmroos-Koski.\n\n\n\n\n\nGEOBOTA en el XII CCB"
+    "section": "Quienes somos",
+    "text": "Quienes somos\nÁlex\n\n\nBiólogo (UdeA)\nCandidato a Doctor en Biología (UdeA)\nAerobiología y botánica\nCiencia abierta y reproducible\nCiencia de datos\n @alexespinosaco@mstdn.social"
+  },
+  {
+    "objectID": "slides/index.html#antes-de-comenzar",
+    "href": "slides/index.html#antes-de-comenzar",
+    "title": "Introducción a la Aerobiología",
+    "section": "Antes de comenzar",
+    "text": "Antes de comenzar\n\n\n\nAsumimos\n\nPoco o nulo conocimiento en palinología\nPoco o nulo conocimiento en aerobiología\n\n\n\nEnseñaremos\n\nUna introducción a la aerobiología"
+  },
+  {
+    "objectID": "slides/index.html#qué-es-la-aerobiología",
+    "href": "slides/index.html#qué-es-la-aerobiología",
+    "title": "Introducción a la Aerobiología",
+    "section": "Qué es la aerobiología",
+    "text": "Qué es la aerobiología\n\n\n\n\n\n\n\n\n\nCiencia interdisciplinaria en la que participan investigadores con diferentes experiencias en diversos temas relacionados con microorganismos, partículas biológicas aerotransportadas, p. ej. polen y esporas, y fenología. Galán et al. (2017).\n\n\n\n\n\n\n\n\nFigura 1: Mis vistas durante gran parte de la tesis."
+  },
+  {
+    "objectID": "slides/index.html#aerosoles-biológicos-primarios-pba-o-bioaerosoles",
+    "href": "slides/index.html#aerosoles-biológicos-primarios-pba-o-bioaerosoles",
+    "title": "Introducción a la Aerobiología",
+    "section": "Aerosoles Biológicos Primarios (PBA) o Bioaerosoles",
+    "text": "Aerosoles Biológicos Primarios (PBA) o Bioaerosoles\n\n\n\n\n\n\n\n\n\nSubconjunto de partículas atmosféricas que son liberadas directamente desde la biosfera hacia la atmósfera. Incluyen organismos vivos y muertos (como algas, arqueas y bacterias), unidades de dispersión (como esporas de hongos y polen de plantas) y varios fragmentos o excreciones (como restos vegetales y brocosomas). Fröhlich-Nowoisky et al. (2016).\n\n\n\n\n\n\n  \n  \n    \n      \n        image/svg+xml\n        \n        \n        2016-01-02\n        \n          \n            Jisaac9\n          \n        \n        \n        \n          \n            Instytut Fotonowy Sp. z o.o.\n          \n        \n        \n          \n            Jisaac9\n          \n        \n        \n          \n            Instytut Fotonowy Sp. z o.o.\n          \n        \n        http://www.engineeringtoolbox.com/particle-sizes-d_934.html\n        English: Airborne particles are commonly either biological contaminants, particulate contaminants, gaseous contaminants, or dust. This diagram shows the size distribution in micrometres (µm) of various types of airborne particles.\n      \n      \n        \n        \n        \n      \n    \n  \n  \n    \n      \n      \n    \n    \n      \n      \n    \n    \n      \n      \n    \n    \n      \n      \n      \n      \n    \n    \n    \n    \n    \n      \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n  \n    \n      \n        \n        \n        \n        \n        \n        \n          \n          \n          \n          \n          \n          \n        \n        \n          0.0001\n          0.001\n          0.01\n          0.1\n          1\n          10\n          100\n          1000\n        \n        \n          \n            \n            \n            \n            \n            \n            \n          \n          \n            \n            \n            \n            \n            \n          \n          \n            \n            \n            \n            \n          \n          \n            \n            \n            \n          \n          \n            \n          \n          \n            \n            \n          \n          \n            \n            \n            \n          \n          \n            \n            \n            \n            \n          \n        \n        \n          Gases\n          Material particulado\n          Tipos de polvo\n          Contaminantes biológicos\n        \n      \n    \n  \n  \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n  \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n  \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n      \n      \n    \n    \n  \n\n\n\nFigura 2: Clasificación de las partículas aerovagantes según su tamaño y tipo. Jisaac9, Mieszko the first, Alexespinosaco, CC BY-SA 4.0, via Wikimedia Commons"
+  },
+  {
+    "objectID": "slides/index.html#aerobiología-en-el-mundo",
+    "href": "slides/index.html#aerobiología-en-el-mundo",
+    "title": "Introducción a la Aerobiología",
+    "section": "Aerobiología en el mundo",
+    "text": "Aerobiología en el mundo\n\n\n\n\n\n\n\n\n\n\n\nFigura 3: Estaciones de muestreo aerobiológico en el mundo. Azul: tipo Hirst. Rojo: estación automática. Naranja: Otra manual. Buters et al. (2018).\n\n\n\n\n\nPara saber más: Davies et al. (2021); Lancia et al. (2021); Schramm et al. (2021)."
+  },
+  {
+    "objectID": "slides/index.html#aerobiología-en-colombia",
+    "href": "slides/index.html#aerobiología-en-colombia",
+    "title": "Introducción a la Aerobiología",
+    "section": "Aerobiología en Colombia",
+    "text": "Aerobiología en Colombia\n\n\n\n\n\n\n\nFigura 4: Linea de tiempo de los estudios aeropalinológicos realizados en Colombia. Los espacios en blanco es información que no se pudo obtener. Tipos polinicos identificados/total; *. No se tuvo acceso directo al material."
+  },
+  {
+    "objectID": "slides/index.html#aerobiología-en-colombia-1",
+    "href": "slides/index.html#aerobiología-en-colombia-1",
+    "title": "Introducción a la Aerobiología",
+    "section": "Aerobiología en Colombia",
+    "text": "Aerobiología en Colombia\n\n\n\n\n\n  \n  \n    \n      \n    \n    \n      \n    \n    \n      \n    \n    \n      \n    \n    \n      \n    \n    \n      \n    \n    \n      \n    \n    \n      \n    \n    \n      \n    \n    \n      \n    \n    \n      \n    \n    \n      \n    \n    \n      \n    \n    \n      \n    \n  \n  \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n  \n    \n    \n    \n    \n    \n    \n    \n  \n  \n    Santa MartaSchnetter (1971)\n    BogotáVillaveces-Niño (1947)Cuervo-Trujillo (1955)var der Hammen (1959)Sánchez-Medina y Fernández (1961, 1966)Hurtado et al. (1989)Leal-Quevedo et al. (1993)Díaz-Camelo (2017)\n    BucaramangaCabrales-Uribe et al. (2003)\n    IbaguéMosquera-Mosquera y Ramírez-Cotes (2019)\n    CaliNaranjo (1958)\n    MedellínAlzate-Guarin et al. (2015)Gutiérrez-Torres (2015)\n    BarranquillaCepeda-Sarabia y Villalba-Vargas (2008)Cortina-Borrero y Martínez-Sierra (2019)Jiménez-López y Porras-Duran (2019)\n  \n  \n    \n    \n    \n    \n    \n    \n    \n  \n\n\n\nFigura 5: Ubicación geográfica de los estuios aeropalinológicos realizados en Colombia."
+  },
+  {
+    "objectID": "slides/index.html#la-ruta-aerobiológica",
+    "href": "slides/index.html#la-ruta-aerobiológica",
+    "title": "Introducción a la Aerobiología",
+    "section": "La ruta aerobiológica",
+    "text": "La ruta aerobiológica\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigura 6: Ruta aerobiológica. Modificado de Edmonds (1979) y Spieksma (1992)."
+  },
+  {
+    "objectID": "slides/index.html#principios-de-muestreo",
+    "href": "slides/index.html#principios-de-muestreo",
+    "title": "Introducción a la Aerobiología",
+    "section": "Principios de muestreo",
+    "text": "Principios de muestreo\n\n\n\n\n\n\n\nDeposiciónGravitacionalImpactaciónSucciónFiltraciónPrecipitaciónLiquidimpingement\n\n\nFigura 7: Principios de muestreo de la Aerobiología.\n\n\n\n\n\nPara saber más: Lacey & West (2006) y Mandrioli et al. (1998)."
+  },
+  {
+    "objectID": "slides/index.html#técnicas-de-muestreo",
+    "href": "slides/index.html#técnicas-de-muestreo",
+    "title": "Introducción a la Aerobiología",
+    "section": "Técnicas de muestreo",
+    "text": "Técnicas de muestreo\n\n\n\n\n\n\n\nCultivoMicroscopíaBioquímicasInmunológicasMoleculares\n\n\nFigura 8: Tecnicas de muestreo utilizados en la Aerobiología.\n\n\n\n\n\nPara saber más: Lacey & West (2006) y Mandrioli et al. (1998)."
+  },
+  {
+    "objectID": "slides/index.html#instrumentos-de-muestreo",
+    "href": "slides/index.html#instrumentos-de-muestreo",
+    "title": "Introducción a la Aerobiología",
+    "section": "Instrumentos de muestreo",
+    "text": "Instrumentos de muestreo\n\n\n\nNo Volumétricos\n\n\n\n\n\n\nFigura 9: Silueta de muestreador tipo Durham.\n\n\n\n\nDeposición gravitacional\n\nCaja de Petri\nPortaobjetos\nMuestreador Durham\nTauber\n\n\n\n\nVolumétricos\n\n\n\n\n\n\nFigura 10: Silueta de muestreador tipo Hirst.\n\n\n\n\nImpacto por succión\n\nMuestreador Hirst\nMuestreador Andersen\n\nImpacto por filtración\n\nMuestreador Cour\n\nImpacto por rotación\n\nMuestreador Rotorod\n\nLiquid impingers\n\nAll-glass impinger (AGI)\n\n\n\n\nPara saber más: Belmonte & Roure (2023)."
+  },
+  {
+    "objectID": "slides/index.html#muestreadores-de-deposición-o-no-volumétricos",
+    "href": "slides/index.html#muestreadores-de-deposición-o-no-volumétricos",
+    "title": "Introducción a la Aerobiología",
+    "section": "Muestreadores de deposición o no volumétricos",
+    "text": "Muestreadores de deposición o no volumétricos\n\n\nFigura 11: Muestreadores no volumétricos. A. Caja de Petri; B. Muestreador Durham; C. Muestreador Tauber. Tomado de: A. Carpaneto (2021); B. Durham (1946); C. Tauber (1974).\n\nPara saber más: Belmonte & Roure (2023); Lacey & West (2006) y Mandrioli et al. (1998)."
+  },
+  {
+    "objectID": "slides/index.html#muestreadores-de-impacto-o-volumétricos",
+    "href": "slides/index.html#muestreadores-de-impacto-o-volumétricos",
+    "title": "Introducción a la Aerobiología",
+    "section": "Muestreadores de impacto o volumétricos",
+    "text": "Muestreadores de impacto o volumétricos\n\n\nFigura 12: Muestreadores volumétricos. A. Muestreador Andersen; B. Muestreador Cour; C. Muestreador Hirst; D. Muestreador Rotorod. Tomado de: A. Andersen (1958); B. Belmonte & Roure-Nolla (2002); C. Hirst (1952); D. Subiza (2001).\n\nPara saber más: Belmonte & Roure (2023); Lacey & West (2006) y Mandrioli et al. (1998)."
+  },
+  {
+    "objectID": "slides/index.html#muestreador-tipo-hirst",
+    "href": "slides/index.html#muestreador-tipo-hirst",
+    "title": "Introducción a la Aerobiología",
+    "section": "Muestreador tipo Hirst",
+    "text": "Muestreador tipo Hirst\n\n\n\n\n\n\n\nMuestreador tipo HirstRelojCinta MelinexAgua destiladaVaselinaGlicerogelatinaTambor y soporteRegla metacrilatoPlancha de calentamientoPinza y cuchillaTamborAna C. Cardona\n\n\nFigura 13: Muestreador tipo Hirst (VPPS 2000 de Lanzoni s.r.l.), partes y montaje.\n\n\n\n\n\n\n\n\n  \n  \n  \n    \n  \n  \n  \n  \n  \n  \n  \n    \n    \n  \n  \n    \n    \n    \n    \n  \n  \n    \n    \n    \n    \n  \n  \n  \n  \n  \n    \n    \n    \n    \n    \n  \n  \n    \n    \n  \n  \n  \n    \n    \n  \n  \n\n\n\nFigura 14: Esquema del funcionamiento de muestreador tipo Hirst.\n\n\n\n\n\nPara saber más: Galán et al. (2007) & Lacey & West (2006)."
+  },
+  {
+    "objectID": "slides/index.html#preparación-de-la-muestra",
+    "href": "slides/index.html#preparación-de-la-muestra",
+    "title": "Introducción a la Aerobiología",
+    "section": "Preparación de la muestra",
+    "text": "Preparación de la muestra\n\n\n\n\n\n\n\n\n  \n  \n  \n    \n  \n  \n    \n    \n    \n    \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n    \n    \n    \n    \n      \n      \n    \n    \n      \n      \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n      \n      \n    \n    \n      \n      \n    \n  \n  \n    \n    \n    \n    \n    \n    \n    \n      \n      \n    \n    \n      \n      \n    \n  \n  \n    \n    \n    \n    \n    \n  \n  \n    \n    \n    \n    \n    \n      \n      \n    \n    \n      \n      \n    \n  \n\n\n\nFigura 15: Esquema del montaje de las muestras obtenidas del muestreador tipo Hirst.\n\n\n\n\n\nPara saber más: Galán et al. (2007) & Lacey & West (2006)."
+  },
+  {
+    "objectID": "slides/index.html#algunos-conceptos",
+    "href": "slides/index.html#algunos-conceptos",
+    "title": "Introducción a la Aerobiología",
+    "section": "Algunos conceptos",
+    "text": "Algunos conceptos\n\n\n\n\nConteo polínico\nEl resultado del análisis de la muestra o los datos en bruto. Es una cantidad entera obtenida del análisis microscópico que no se puede comparar, y necesita ser convertida a concentraciones polínicas.\n\n\n\n\n\n\n\nIntegral Anual de Polen (APIn)1:\nExpresado como (Pollen * day/m3). Integral en el tiempo de la concentración de polen. Puede obtenerse sumando la concentración diaria promedio durante el período de tiempo especificado, o multiplicando la concentración promedio de toda la temporada por la duración de la misma.\n\n\n\n\nConcentración polínica\nExpresado como (Pollen grains/m3) o (Pollen/m3). El número de granos de polen o esporas en el aire por unidad de volumen de aire. Se expresa como una media diaria u horaria, obtenida de multiplicar el conteo polínico por una factor de corrección2.\n\n\n\n\n\nPeriodo de Polinización Principal (MPS)3:\nDuración del tiempo durante el cual el polen está presente en la atmósfera en concentraciones significativas en una ubicación. Existen diferentes métodos para definir el inicio y el final de la temporada principal.\n\n\n\nPara saber más: Galán et al. (2007) & Galán et al. (2017).\n\nAPIn: Annual Pollen Integral. SPIn: Seasonal Pollen Integral.El factor de corrección depende del volumen de succión del equipo y la superficie del campo del microscopio utilizados.MPS: Main Pollen Season"
+  },
+  {
+    "objectID": "slides/index.html#obtención-de-datos",
+    "href": "slides/index.html#obtención-de-datos",
+    "title": "Introducción a la Aerobiología",
+    "section": "Obtención de datos",
+    "text": "Obtención de datos\n\n\n\n\n\n\n\n\nFigura 16: Campo visual observado durante la lectura de placas. Se observan algunos granos de polen y esporas de hongos.\n\n\n\n\n\n\n\n\n  \n  \n  \n    \n  \n  \n  \n  \n  \n  \n  \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n\n\n\nFigura 17: Métodos de lectura.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n  \n  \n    \n  \n  \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n\n\n\n(a) Plantilla para la toma de datos.\n\n\n\n\n\n\n\n\n\n\n\n  \n  \n  \n    \n  \n  \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n    \n      \n      \n      \n      \n      \n    \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n\n\n\n(b) Plantilla de datos polínicos.\n\n\n\n\n\n\n\nFigura 18: Esquema de la plantilla de toma de datos y matriz del conteo polínico.\n\n\n\n\n\nPara saber más: Galán et al. (2007) & Lacey & West (2006)."
+  },
+  {
+    "objectID": "slides/index.html#polen",
+    "href": "slides/index.html#polen",
+    "title": "Introducción a la Aerobiología",
+    "section": "Polen",
+    "text": "Polen\n\n\n\nCélulas de forma y dimensión variables, dotadas de una cubierta muy resistente o esporodermis, que se forman dentro de los sacos polínicos del estambre y tiene como misión, una vez formado el microgametófito pluricelular, fecundar el óvulo. Saenz-Laín (2004).\n\n\n\n\n\n\n\nFigura 19: Formación del grano de polen Megías-Pacheco et al. (2017).\n\n\n\n\n\n\n\nimage/svg+xml\n\n\n\n\n\n\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\n\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\n\n\t\n\t\n\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\n\n\n\n\n\n\n\n\n\t\n\t\n\t\t\n\n\n\t\n\t\n\t\t\n\n\n\t\n\t\n\n\n\n\t\n\t\n\n\n\n\n\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\n\n\n\n\t\n\t\n\t\n\t\n\n\n\t\n\t\n\t\n\t\n\t\n\n\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\n\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\n\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\n\n\n\t\n\t\n\t\n\t\n\t\n\t\n\n\n\n\t\n\t\n\n\n\n\t\n\t\n\t\n\t\n\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\n\t\n\n\n\t\n\t\n\t\n\t\n\t\n\t\t\n\t\n\t\t\n\t\n\t\n\t\t\n\t\n\t\t\n\t\n\t\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\n\t\n\t\n\t\t\n\t\n\t\t\n\t\n\t\n\t\t\n\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\n\t\n\n\n\t\n\t\n\n\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\t\n\n\n\n\t\n\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\n\n\t\n\t\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\n\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\n\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\n\n\n\n\n\n\n\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\n\n\n\n\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\n\n\n\n\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\n\n\nMicrogametofito(polen)\nMicroesporangio(saco polínico)\nNúcleo generativo\nNúcleos espermáticos\nÓvulo\nSinérgidas\nCigoto\nAntípodas\nMegagametófito(saco embrionario)\nPlántula\nCubierta seminal\nPedicelo\n\n\n\nFigura 20: Ciclo de vida de las plantas con flor (Angiospermae). LadyofHats, Public domain, via Wikimedia Commons."
+  },
+  {
+    "objectID": "slides/index.html#morfología-polínica",
+    "href": "slides/index.html#morfología-polínica",
+    "title": "Introducción a la Aerobiología",
+    "section": "Morfología polínica",
+    "text": "Morfología polínica\n\n\n\nUnidad polínica\n\n\n\n\n\n\nFigura 21: Polaridad y distintos grados de agrupación del polen. 1. Polaridad; 2-7. Tétradas; 2. linear; 3. tetraédrica; 4. decusada; 5. tetragonal; 6. romboidal; 7. en forma de T; 8. díada; 9. másula; 10. polinia; 11-12. políada. Trigo-Pérez et al. (2008).\n\n\n\n\n\nAberturas (Sistema NPC)\n\n\n\n\n\n\nFigura 22: Sistema NPC (N. Número; P. Posición; C. Carácter o forma) para la clasificación de las aberturas propuesto por Erdtman (1969)."
+  },
+  {
+    "objectID": "slides/index.html#morfología-polínica-1",
+    "href": "slides/index.html#morfología-polínica-1",
+    "title": "Introducción a la Aerobiología",
+    "section": "Morfología polínica",
+    "text": "Morfología polínica\n\n\n\nEstructura y ornamentación\n\n\n\n\n\n\n\n\n\n\n\n\nFigura 23: Estructura de la pared del polen (esporodermis). Halbritter et al. (2018).\n\n\n\n\n\nPolaridad, simetría, forma, tamaño\n\n\n\n\n\n\nFigura 24: Tamaño de los granos de polen. Halbritter et al. (2018)."
+  },
+  {
+    "objectID": "slides/index.html#atlas-aeropalinológico-de-colombia",
+    "href": "slides/index.html#atlas-aeropalinológico-de-colombia",
+    "title": "Introducción a la Aerobiología",
+    "section": "Atlas aeropalinológico de Colombia",
+    "text": "Atlas aeropalinológico de Colombia\n\n\n\n\n\n\n\n\nFigura 25: A. Acacia; B. Alnus; C. Alternanthera; D. Amaranthaceae; E. Ambrosia; F. Apiaceae en vista ecuatorial; G. Arecaceae; H. Artemisia; I. Asteraceae: Helianthus; J. Asteraceae: Lactuceae; K. Asteraceae: Senecio; L. Brassicaceae; M. Cannabis; N. Casuarina; O. Cecropia en vista ecuatorial; P. Citrus; Fotografías tomadas en microscopía óptica a 1000x. Escala = 10 µm.\n\n\n\n\n\n\n\n\n\n\nFigura 26: A. Cupressaceae; B. Cyperaceae; C. Fraxinus; D. Juglans; E. Mangifera indica; F. Moraceae; G. Myrtaceae H. Pinus; I. Plantago; J. Poaceae; K. Quercus; L. Ricinus; M. Rumex; N. Sambucus; O. Typhaceae; P. Urticaceae; Fotografías tomadas en microscopía óptica a 1000x. Escala = 10 µm."
+  },
+  {
+    "objectID": "slides/index.html#descripciones",
+    "href": "slides/index.html#descripciones",
+    "title": "Introducción a la Aerobiología",
+    "section": "Descripciones",
+    "text": "Descripciones\n\n\n\n\n\n\n\n\npollen\nsimetria\npolaridad\ntamanho\nforma\nvista_polar\nvista_ecuatorial\naberturas\nexina\n\n\n\n\nAcacia\nBilateral\nIsopolar\nMediano\nGranos poligonales en poliada\nCircular a elíptica\nElíptico\ninaperturado\nPsilada\n\n\nAlnus\nRadial\nIsopolar\nPequeño-Mediano\nOblato\nTetragonal a heptagonal\nElíptico\n5(7)-zonocolporado\nFinamente rugulada, escábrida o ligeramente equinulada\n\n\nAlternanthera\nRadial\nIsopolar\nPequeño\nEsferoidal\nSubircular\nPoligonal\nPolipantoporado\nGranulada\n\n\nAmaranthaceae\nRadial\nApolar\nPequeño-Mediano\nEsferoidal\nCircular\nCircular\nPolipantoporado\nGranulada\n\n\nAmbrosia\nRadial\nIsopolar\nPequeño\nOblato-esferoidal\nSubcircular a subtriangular\nCircular a ligeramente elíptico\n3-zonocolporado\nEquinuloperforada\n\n\nApiaceae\nRadial\nIsopolar\nPequeño\nProlato\nTriangular a circular\nElíptico\n3-zonocolporado\nPsilada\n\n\nArecaceae\nBilateral\nHeteropolar\nMediano\nOblato\nElipsoide\nPlanoconvexo\n1-anasulcado\nEscabrida\n\n\nArtemisia\nRadial\nIsopolar\nPequeño-Mediano\nSuboblato a Prolato-esferoidal\nCircular-lobulado a subtriangular\nCircular a ligeramente elíptico\n3-zonocolporado\nEquinulada, granulada\n\n\nAsteraceae: Helianthus\nRadial\nIsopolar\nMediano\nOblato-esferoidal\nSubcircular a triangular\nCircular\n3(4)-zonocolporado\nEquinada\n\n\nAsteraceae: Lactuceae\nRadial\nIsopolar\nMediano\nSuboblato a Oblato-esferoidal\nCircular\nHexagonal\n4(3)-zonocolporado\nEquinada, Equinulada, equinolofada\n\n\nAsteraceae: Senecio\nRadial\nIsopolar\nPequeño-Mediano\nOblato-esferoidal a Prolato-esferoidal\nCircular\nCircular\n3-zonocolporado\nEquinuloperforada o Equinada\n\n\nBrassicaceae\nRadial\nIsopolar\nPequeño-Mediano\nProlato\nSubcircular lobulado a subtriangular\nCircular a ligeramente elíptico\n3-zonocolpado\nReticulada\n\n\nCannabis\nRadial\nIsopolar\nPequeño\nEsferoidal-suboblato\nCircular\nCircular a ligeramente elíptico\n3-zonoporado\nGranulada\n\n\nCasuarina\nRadial\nIsopolar\nMediano\nSuboblato\nSubcircular a trianguar\nElíptico\n3-porado\nGranulada\n\n\nCecropia\nRadial\nIsopolar\nPequeño\nProlato\nCircular\nElíptico\n2-zonoporado\nEscabrida\n\n\nCitrus\nRadial\nIsopolar\nMediano\nProlato a Prolato-esferoidal\nCircular\nElíptico\n4-zonocolporado\nReticulada\n\n\nCupressaceae\nRadial\nHeteropolar\nMediano\nEsferoidal\nCircular\nCircular\nInaperturado\nPsilada\n\n\nCyperaceae\nRadial\nHeteropolar\nMediano\nPiriforme\nSubcircular a poliédrico\nPiriforme\nInaperturado\nGranulada-perforada\n\n\nFraxinus\nRadial\nIsopolar\nMediano\nSuboblato\nCircular a pentagonal\nCircular a elíptico\n4(5)-zonocolpado\nReticulada\n\n\nJuglans\nAsimétrico\nHeteropolar\nMediano\nSuboblato a Oblato-esferoidal\nPoligonal o circular\nElíptico\nPolipantoporado\nPsilada\n\n\nMangifera indica\nRadial\nIsopolar\nMediano\nEsferoidal\nTriangular a circular\nElíptico\n3-zonocolporado\nMicrorreticulada\n\n\nMoraceae\nRadial\nIsopolar\nPequeño-Mediano\nSuboblato a Esferoidal\nCircular\nCircular\n2(3)-zonoporado\nPsilada\n\n\nMyrtaceae\nRadial\nIsopolar\nPequeño-Mediano\nOblato\nTriangular\nElíptico\n3-zonosincolporado\nEscabrida\n\n\nPinus\nBilateral\nHeteropolar\nMediano\nOblato\nCorpus elipsoide, sacos aeriferos subcirculares\nCorpues plano-convexo\nAnaleptomado\nGranulada-verrugosa\n\n\nPlantago\nRadial\nApolar\nMediano\nEsferoidal\nCircular\nCircular\nPantoporado\nEscabrida\n\n\nPoaceae\nRadial\nHeteropolar\nMediano-Grande\nEsferoidal\nCircular\nCircular\n1-anaporado\nGranulada\n\n\nQuercus\nRadial\nIsopolar\nMediano\nOblato-esferoidal\nSubcircular a subtriangular convexo\nCircular a elíptico\n3-zonocolporado\nGranulado-verrugosa\n\n\nRicinus\nRadial\nIsopolar\nMediano\nEsferoidal\nCircular\nSubcircular a ligeramente elíptico\n3-zonocolporado\nPerforada-reticulada\n\n\nRumex\nRadial\nIsopolar\nMediano\nOblato-esferoidal\nCircular a elipsoidal\nSubcircular\n3(4)-zonocolporado\nGranulada\n\n\nSambucus\nRadial\nIsopolar\nPequeño\nSubprolato\nSubcircular trilobulado\nElíptico\n3-zonocolporado\nReticulada-escrobiculada\n\n\nTyphaceae\nRadial\nHeteropolar\nPequeño\nEsferoidal\nCircular\nCircular\n1-anaporado\nGranulada\n\n\nUrticaceae\nRadial\nIsopolar o apolar\nPequeño\nsuboblato, prolato-esferoidal\nCircular\nCircular\n3(&gt;3)-zono(panto)porado\nPsilada, verrucosa, equinulada"
+  },
+  {
+    "objectID": "slides/index.html#cecropia",
+    "href": "slides/index.html#cecropia",
+    "title": "Introducción a la Aerobiología",
+    "section": "Cecropia",
+    "text": "Cecropia\n\n\n\n\n\n\n\n\npollen\nsimetria\npolaridad\ntamanho\nforma\nvista_polar\nvista_ecuatorial\naberturas\nexina\n\n\n\n\nCecropia\nRadial\nIsopolar\nPequeño\nProlato\nCircular\nElíptico\n2-zonoporado\nEscabrida\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigura 27: Tipo polínico: Cecropia. Fotografía tomada en microscopía óptica a 1000x. Escala = 10 µm.\n\n\n\n\n\n\n\n\n\n\nFigura 28: NC: Cecropia petalta (Urticaceae) NV: Yarumo. HUA-190707. Caro-Sánchez & Espinosa-Correa (2024). Escala = 5 cm."
+  },
+  {
+    "objectID": "slides/index.html#urticaceae",
+    "href": "slides/index.html#urticaceae",
+    "title": "Introducción a la Aerobiología",
+    "section": "Urticaceae",
+    "text": "Urticaceae\n\n\n\n\n\n\n\n\npollen\nsimetria\npolaridad\ntamanho\nforma\nvista_polar\nvista_ecuatorial\naberturas\nexina\n\n\n\n\nUrticaceae\nRadial\nIsopolar o apolar\nPequeño\nsuboblato, prolato-esferoidal\nCircular\nCircular\n3(&gt;3)-zono(panto)porado\nPsilada, verrucosa, equinulada\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigura 29: Tipo polínico: Urticaceae. Fotografía tomada en microscopía óptica a 1000x. Escala = 10 µm.\n\n\n\n\n\n\n\n\n\n\nFigura 30: NC: Urtica ballotifolia (Urticaceae). HUA-221846. Caro-Sánchez & Espinosa-Correa (2024). Escala = 5 cm."
+  },
+  {
+    "objectID": "slides/index.html#fraxinus",
+    "href": "slides/index.html#fraxinus",
+    "title": "Introducción a la Aerobiología",
+    "section": "Fraxinus",
+    "text": "Fraxinus\n\n\n\n\n\n\n\n\npollen\nsimetria\npolaridad\ntamanho\nforma\nvista_polar\nvista_ecuatorial\naberturas\nexina\n\n\n\n\nFraxinus\nRadial\nIsopolar\nMediano\nSuboblato\nCircular a pentagonal\nCircular a elíptico\n4(5)-zonocolpado\nReticulada\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigura 31: Tipo polínico: Fraxinus. Fotografía tomada en microscopía óptica a 1000x. Escala = 10 µm.\n\n\n\n\n\n\n\n\n\n\nFigura 32: NC: Fraxinus uhdei (Oleaceae). NV: Urapán. HUA-002341. Caro-Sánchez & Espinosa-Correa (2024). Escala = 5 cm."
+  },
+  {
+    "objectID": "slides/index.html#moraceae",
+    "href": "slides/index.html#moraceae",
+    "title": "Introducción a la Aerobiología",
+    "section": "Moraceae",
+    "text": "Moraceae\n\n\n\n\n\n\n\n\npollen\nsimetria\npolaridad\ntamanho\nforma\nvista_polar\nvista_ecuatorial\naberturas\nexina\n\n\n\n\nMoraceae\nRadial\nIsopolar\nPequeño-Mediano\nSuboblato a Esferoidal\nCircular\nCircular\n2(3)-zonoporado\nPsilada\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigura 33: Tipo polínico: Moraceae. Fotografía tomada en microscopía óptica a 1000x. Escala = 10 µm.\n\n\n\n\n\n\n\n\n\n\nFigura 34: NC: Artocarpus altilis (Moraceae). NV: Árbol del pan. HUA-129695. Caro-Sánchez & Espinosa-Correa (2024). Escala = 5 cm."
+  },
+  {
+    "objectID": "slides/index.html#cupressaceae",
+    "href": "slides/index.html#cupressaceae",
+    "title": "Introducción a la Aerobiología",
+    "section": "Cupressaceae",
+    "text": "Cupressaceae\n\n\n\n\n\n\n\n\npollen\nsimetria\npolaridad\ntamanho\nforma\nvista_polar\nvista_ecuatorial\naberturas\nexina\n\n\n\n\nCupressaceae\nRadial\nHeteropolar\nMediano\nEsferoidal\nCircular\nCircular\nInaperturado\nPsilada\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigura 35: Tipo polínico: Cupressaceae. Fotografía tomada en microscopía óptica a 1000x. Escala = 10 µm.\n\n\n\n\n\n\n\n\n\n\nFigura 36: NC: Cryptomeria japonica (Cupressaceae). NV: Ciprés japones. HUA-151210. Caro-Sánchez & Espinosa-Correa (2024). Escala = 5 cm."
+  },
+  {
+    "objectID": "slides/index.html#poaceae",
+    "href": "slides/index.html#poaceae",
+    "title": "Introducción a la Aerobiología",
+    "section": "Poaceae",
+    "text": "Poaceae\n\n\n\n\n\n\n\n\npollen\nsimetria\npolaridad\ntamanho\nforma\nvista_polar\nvista_ecuatorial\naberturas\nexina\n\n\n\n\nPoaceae\nRadial\nHeteropolar\nMediano-Grande\nEsferoidal\nCircular\nCircular\n1-anaporado\nGranulada\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigura 37: Tipo polínico: Poaceae. Fotografía tomada en microscopía óptica a 1000x. Escala = 10 µm.\n\n\n\n\n\n\n\n\n\n\nFigura 38: NC: Paspalum fimbriatum (Poaceae). HUA-031172. Caro-Sánchez & Espinosa-Correa (2024). Escala = 5 cm."
+  },
+  {
+    "objectID": "slides/index.html#myrtaceae",
+    "href": "slides/index.html#myrtaceae",
+    "title": "Introducción a la Aerobiología",
+    "section": "Myrtaceae",
+    "text": "Myrtaceae\n\n\n\n\n\n\n\n\npollen\nsimetria\npolaridad\ntamanho\nforma\nvista_polar\nvista_ecuatorial\naberturas\nexina\n\n\n\n\nMyrtaceae\nRadial\nIsopolar\nPequeño-Mediano\nOblato\nTriangular\nElíptico\n3-zonosincolporado\nEscabrida\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigura 39: Tipo polínico: Myrtaceae. Fotografía tomada en microscopía óptica a 1000x. Escala = 10 µm.\n\n\n\n\n\n\n\n\n\n\nFigura 40: NC: Syzygium jambos (Myrtaceae). NV: Pomo. HUA-150665 Caro-Sánchez & Espinosa-Correa (2024). Escala = 5 cm."
+  },
+  {
+    "objectID": "slides/index.html#pinus",
+    "href": "slides/index.html#pinus",
+    "title": "Introducción a la Aerobiología",
+    "section": "Pinus",
+    "text": "Pinus\n\n\n\n\n\n\n\n\npollen\nsimetria\npolaridad\ntamanho\nforma\nvista_polar\nvista_ecuatorial\naberturas\nexina\n\n\n\n\nPinus\nBilateral\nHeteropolar\nMediano\nOblato\nCorpus elipsoide, sacos aeriferos subcirculares\nCorpues plano-convexo\nAnaleptomado\nGranulada-verrugosa\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigura 41: Tipo polínico: Pinus. Fotografía tomada en microscopía óptica a 1000x. Escala = 10 µm.\n\n\n\n\n\n\n\n\n\n\nFigura 42: NC: Pinus patula (Pinaceae). NV: Pino pátula. HUA-136816. Caro-Sánchez & Espinosa-Correa (2024). Escala = 5 cm."
+  },
+  {
+    "objectID": "slides/index.html#arecaceae",
+    "href": "slides/index.html#arecaceae",
+    "title": "Introducción a la Aerobiología",
+    "section": "Arecaceae",
+    "text": "Arecaceae\n\n\n\n\n\n\n\n\npollen\nsimetria\npolaridad\ntamanho\nforma\nvista_polar\nvista_ecuatorial\naberturas\nexina\n\n\n\n\nArecaceae\nBilateral\nHeteropolar\nMediano\nOblato\nElipsoide\nPlanoconvexo\n1-anasulcado\nEscabrida\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigura 43: Tipo polínico: Arecaceae. Fotografía tomada en microscopía óptica a 1000x. Escala = 10 µm.\n\n\n\n\n\n\n\n\n\n\nFigura 44: NC: Attalea butyracea (Arecaceae). NV: Palma de vino. HUA-171807. Caro-Sánchez & Espinosa-Correa (2024). Escala = 5 cm."
+  },
+  {
+    "objectID": "slides/index.html#comparación-con-otros-paises",
+    "href": "slides/index.html#comparación-con-otros-paises",
+    "title": "Introducción a la Aerobiología",
+    "section": "Comparación con otros paises",
+    "text": "Comparación con otros paises\n\n\n\n\n\n\n\n\nFigura 45: Tipos polínicos descritos y fotografiados en esta tesis.\n\n\n\n\n\n\n\n\n\n\nFigura 46: Tipos polínicos en algunos paises. Nitiu et al. (2019); Trigo-Pérez et al. (2008); Galán et al. (2014); Rosas-Alvarado et al. (2011); Hurtado & Riegler-Goihman (1986)."
+  },
+  {
+    "objectID": "slides/index.html#referencias",
+    "href": "slides/index.html#referencias",
+    "title": "Introducción a la Aerobiología",
+    "section": "Referencias",
+    "text": "Referencias\n\n\n\n\nIntroducción a la Aerobiología\n\n\n\n\nAndersen, A. A. (1958). New sampler for the collection, sizing, and enumeration of viable airborne particles,. Journal of Bacteriology, 76(5), 471-484. https://doi.org/10.1128/jb.76.5.471-484.1958\n\n\nBelmonte, J., & Roure, J. M. (2023). Métodos de muestreo. https://aerobiologia.cat/pia/es/methods\n\n\nBelmonte, J., & Roure-Nolla, J.-M. (2002). Introducción (A. L. Valero-Santiago & Á. Cadahía-García, Eds.; Vol. 1). MRA ediciones. Laboratorios Menarini. https://aerobiologia.cat/pia/general/pdf/books/2002_Polinosis.Polen_y_alergia.pdf\n\n\nButers, J. T. M., Antunes, C. M., Galveias, A., Bergmann, K. C., Thibaudon, M., Galán, C., Schmidt-Weber, C., & Oteros, J. (2018). Pollen and spore monitoring in the world. Clinical and Translational Allergy, 8(1), 9. https://doi.org/10.1186/s13601-018-0197-8\n\n\nCaro-Sánchez, A. V., & Espinosa-Correa, Á. (2024). Colecciones seleccionadas del Herbario de la Universidad de Antioquia. http://alexespinosaco.github.io\n\n\nCarpaneto, A. (2021). Petri dish. https://doi.org/10.5281/ZENODO.5204504\n\n\nDavies, J. M., Berman, D., Beggs, P. J., Ramón, G. D., Peter, J., Katelaris, C. H., & Ziska, L. H. (2021). Global climate change and pollen aeroallergens: a southern hemisphere perspective. Immunology and Allergy Clinics of North America, 41(1), 1-16. https://doi.org/10.1016/j.iac.2020.09.002\n\n\nDurham, O. C. (1946). The volumetric incidence of atmospheric allergens: IV. A proposed standard method of gravity sampling, counting, and volumetric interpolation of results. Journal of Allergy, 17(2), 79-86. https://doi.org/10.1016/0021-8707(46)90025-1\n\n\nEdmonds, R. L. (1979). Introduction. En R. L. Edmonds (Ed.), Aerobiology: the ecological systems approach (pp. 1-9). Dowden, Hutchinson & Ross.\n\n\nErdtman, G. (1969). Handbook of palynology, morphology, taxonomy, ecology: an introduction to the study of pollen grains and spores. Munksgaard.\n\n\nFröhlich-Nowoisky, J., Kampf, C. J., Weber, B., Huffman, J. A., Pöhlker, C., Andreae, M. O., Lang-Yona, N., Burrows, S. M., Gunthe, S. S., Elbert, W., Su, H., Hoor, P., Thines, E., Hoffmann, T., Després, V. R., & Pöschl, U. (2016). Bioaerosols in the Earth system: Climate, health, and ecosystem interactions. Atmospheric Research, 182, 346-376. https://doi.org/10.1016/j.atmosres.2016.07.018\n\n\nGalán, C., Ariatti, A., Bonini, M., Clot, B., Crouzy, B., Dahl, Å., Fernández-González, M. D., Frenguelli, G., Gehrig, R., Isard, S. A., Levetin, E., Li, D.-W., Mandrioli, P., Rogers, C. A., Thibaudon, M., Šaulienė, I., Skjøth, C. A., Smith, M., & Sofiev, M. (2017). Recommended terminology for aerobiological studies. Aerobiologia, 33(3), 293-295. https://doi.org/10.1007/s10453-017-9496-0\n\n\nGalán, C., Cariñanos, P., Alcázar, P., & Domínguez, E. (2007). Manual de calidad y gestión de la Red Española de Aerobiología. Universidad de Córdoba. http://www.redespanoladeaerobiologia.com/metodologia.html\n\n\nGalán, C., Smith, M., Thibaudon, M., Frenguelli, G., Oteros, J., Gehrig, R., Berger, U. E., Clot, B., Brandao, R., & EAS QC Working Group. (2014). Pollen monitoring: minimum requirements and reproducibility of analysis. Aerobiologia, 30(4), 385-395. https://doi.org/10.1007/s10453-014-9335-5\n\n\nHalbritter, H., Ulrich, S., Grímsson, F., Weber, M., Zetter, R., Hesse, M., Buchner, R., Svojtka, M., & Frosch-Radivo, A. (2018). Illustrated Pollen Terminology. Springer International Publishing. https://doi.org/10.1007/978-3-319-71365-6\n\n\nHirst, J. M. (1952). An Automatic Volumetric Spore Trap. Annals of Applied Biology, 39(2), 257-265. https://doi.org/10.1111/j.1744-7348.1952.tb00904.x\n\n\nHurtado, I., & Riegler-Goihman, M. (1986). Air-sampling studies in a tropical area: I. airborne pollen and fern spores. Grana, 25(1), 63-68. https://doi.org/10.1080/00173138609429934\n\n\nLacey, M. E., & West, J. S. (Eds.). (2006). The Air Spora: A manual for catching and identifying airborne biological particles. Springer US. https://doi.org/10.1007/978-0-387-30253-9\n\n\nLancia, A., Capone, P., Vonesch, N., Pelliccioni, A., Grandi, C., Magri, D., & D’Ovidio, M. C. (2021). Research progress on aerobiology in the last 30 years: A focus on methodology and occupational health. Sustainability, 13(8), 4337. https://doi.org/10.3390/su13084337\n\n\nMandrioli, P., Comtois, P., & Levizzani, V. (1998). Methods in aerobiology. Pitagora Editrice.\n\n\nMegías-Pacheco, M., Molist-García, P., & Pombal-Diego, M. Á. (2017). Atlas de histología vegetal y animal. https://mmegias.webs.uvigo.es/\n\n\nNitiu, D. S., Mallo, A. C., Medina, I., & Parisi, C. (2019). Atlas de pólenes alergénicos de Buenos aires, Argentina. Archivos de Alergia e Inmunología Clínica, 50(2), 67-88. https://www.archivos.org.ar/contenido/art.php?recordID=MTYyNA==\n\n\nRosas-Alvarado, A., Bautista-Huerta, M., & Velázquez-Sámano, G. (2011). Atlas de los pólenes alergénicos de mayor relevancia en México. Revista Alergia México, 58(3), 162-170. https://www.elsevier.es/es-revista-revista-alergia-mexico-336-articulo-atlas-polenes-alergenicos-mayor-relevancia-X0002515111345183\n\n\nSaenz-Laín, C. (2004). Glosario de términos palinológicos. Lazaroa, 25(0), 93-112. https://revistas.ucm.es/index.php/LAZA/article/view/LAZA0404110093A\n\n\nSchramm, P. J., Brown, C. L., Saha, S., Conlon, K. C., Manangan, A. P., Bell, J. E., & Hess, J. J. (2021). A systematic review of the effects of temperature and precipitation on pollen concentrations and season timing, and implications for human health. International Journal of Biometeorology, 65(10), 1615-1628. https://doi.org/10.1007/s00484-021-02128-7\n\n\nSpieksma, F. Th. M. (1992). Allergological aerobiology. Aerobiologia, 8(1), 5-8. https://doi.org/10.1007/BF02291320\n\n\nSubiza, J. (2001). How to interpret pollen counts. Alergología e Inmunología Clínica, 16(2), 59-68. https://www.researchgate.net/publication/264869365_How_to_interpret_pollen_counts\n\n\nTauber, H. (1974). A static non-overload pollen collector. New Phytologist, 73(2), 359-369. https://doi.org/10.1111/j.1469-8137.1974.tb04770.x\n\n\nTrigo-Pérez, M. del M., Jato, V., Fernández-González, M. D., & Galán, C. (2008). Atlas aeropalinológico de España. Secretariado de publicaciones de la Universidad de Leon."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Introducción a la Aerobiología",
     "section": "",
-    "text": "Fecha: 4 de noviembre del 2024\n Hora: 12:00 - 16:00\n Lugar: Popayán, Colombia\n Cupos: 20\n Inversión: desde $20.000 COP (ver detalles)\n Inscripción: en la página del XII Congreso Colombiano de Botánica\n Contacto: alex.espinosa@udea.edu.co"
+    "text": "Fecha: 4 de noviembre del 2024\n Lugar: Popayán, Colombia\n Duración: 4 horas\n Cupos: 20\n Inversión: desde $20.000 COP (ver detalles)\n Inscripción: en la página del XII Congreso Colombiano de Botánica\n Contacto: alex.espinosa@udea.edu.co"
   },
   {
     "objectID": "index.html#qué-es-la-aerobiología",
